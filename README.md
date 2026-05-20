@@ -41,15 +41,25 @@ the terrorists are in the network.
 
 
 
+
+
+
 <img width="410" height="238" alt="image" src="https://github.com/user-attachments/assets/273acfe8-3139-4c6f-a22f-df09d8667c95" />
 
 *Figure 2: Multivariate regression analysis*
 
 
 
-<img width="1332" height="897" alt="image" src="https://github.com/user-attachments/assets/a61d4f17-3d56-4c9e-bf62-f6dfd5b04242" />
+<img width="577" height="595" alt="image" src="https://github.com/user-attachments/assets/ef36425c-474c-4474-be2e-9945e7c21b8d" />
 
-*Figure 3:Network visualization of the Al Qaeda Terrorists involved in the 9/11 attacks*
+*Figure 3: Network visualization of the Al Qaeda Terrorists involved in the 9/11 attacks*
+
+
+
+
+
+
+
 
 
 
