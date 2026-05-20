@@ -10,8 +10,8 @@ the terrorists are in the network.
 
 ## Dataset
 - [Terrorist network relationship data](Datasets/terrorist_links.xlsx)
-- Terrorist demographic data
-- City socioeconomic dataset (GDP per capita, population density, crime rate, education level)
+- [Terrorist demographic data](Datasets/Terrorist born addresses.xlsx) (sheet 1)
+- [City socioeconomic data](Datasets/Terrorist born addresses.xlsx) (GDP per capita, population density, crime rate, education level) (sheet 2)
 
 ## Methods
 ### Statistical Analysis
