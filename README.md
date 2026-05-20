@@ -9,7 +9,7 @@ Does the sizes of the cities where the terrorists are born predict their central
 the terrorists are in the network.
 
 ## Dataset
-- Terrorist network relationship data
+- [Terrorist network relationship data](Datasets/terrorist_links.xlsx)
 - Terrorist demographic data
 - City socioeconomic dataset (GDP per capita, population density, crime rate, education level)
 
