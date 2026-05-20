@@ -33,13 +33,18 @@ the terrorists are in the network.
 
 ## Visualizations
 <img width="212" height="63" alt="image" src="https://github.com/user-attachments/assets/f4791c8a-b8c9-47b4-bc72-47af6b83253f" />
+
 Correlation matrix
 
+
 <img width="410" height="238" alt="image" src="https://github.com/user-attachments/assets/273acfe8-3139-4c6f-a22f-df09d8667c95" />
+
 Multivariate regression analysis
 
+
 <img width="1332" height="897" alt="image" src="https://github.com/user-attachments/assets/a61d4f17-3d56-4c9e-bf62-f6dfd5b04242" />
-Figure 5: Network visualization of the Al Qaeda Terrorists involved in the 9/11 attacks 
+
+Network visualization of the Al Qaeda Terrorists involved in the 9/11 attacks 
 
 ## Findings
 - Weak negative correlation between city size and network centrality
