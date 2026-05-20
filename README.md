@@ -1,8 +1,8 @@
 # Terrorist-network-analysis
 ## Overview
-This project investigates whether the size of cities where members of Al-Qaeda, a terrorist organization, were born predicts their centrality within the 9/11 terrorist network.
+This project investigates whether the size of cities where members of Al-Qaeda (a terrorist organization) were born predicts their centrality within the 9/11 terrorist network. Using network analysis and statistical modeling in R, the study examines relationships between geographic, economic, and network variables.
 
-Using network analysis and statistical modeling in R, the study examines relationships between geographic, economic, and network variables.
+This repository presents my individual implementation and documentation of a collaborative university research project.
 
 ## Research question
 Does the sizes of the cities where the terrorists are born predict their centrality in the network of 37 Al-Qaeda terrorists involved in the 9/11 event? We expect to find out that the smaller the cities, the more central 
@@ -35,3 +35,6 @@ the terrorists are in the network.
 ## Findings
 - Weak negative correlation between city size and network centrality
 - Regression results showed no statistically significant relationship between socioeconomic factors and the centrality of Al-Qaeda operatives
+
+## Full report
+(View the full academic report of the project)[Final Report.pdf]
